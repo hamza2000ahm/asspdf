@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "578157820612",
+    "firebase_url": "https://asspdfja-default-rtdb.firebaseio.com",
+    "project_id": "asspdfja",
+    "storage_bucket": "asspdfja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578157820612:android:3af185d0cf709385fb6791",
+        "android_client_info": {
+          "package_name": "com.example.asspdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578157820612-bgmj2761ncb69sqlso3rcv09lqsosuhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOh1sIbtLkbZeo8a1m-pVcwnF7qUyVdws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578157820612-bgmj2761ncb69sqlso3rcv09lqsosuhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578157820612:android:23da2dbae30ff97bfb6791",
+        "android_client_info": {
+          "package_name": "com.example.asspdfja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578157820612-bgmj2761ncb69sqlso3rcv09lqsosuhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOh1sIbtLkbZeo8a1m-pVcwnF7qUyVdws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578157820612-bgmj2761ncb69sqlso3rcv09lqsosuhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
